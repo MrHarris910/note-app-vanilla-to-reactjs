@@ -1,8 +1,13 @@
-# React + Vite
+Huge Thanks to Greatstacks Youtube Channel for providing the tutorial that helped me produce the code.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Within this branch You have the three necessary files to run the application. Both The vanilla Javascript and React.JS have the exact same fuctionality, the only difference is the methods used to code both.
 
-Currently, two official plugins are available:
+I did utilize create vite@latest for the Layout. I suggest using create vite@latest within the command line and then copying the files within your application, Also, the image files are provided within the video description, I also reccomend going directly there, as I am unsure if the guidlines of github permits that. 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This is another simple notes application i will be utuilizing within one of my bigger projects. I knew I would need something similar to this within my app.
+
+Below is the Channl and video tutorial I used to assist me with this repository:
+
+Channel: GreatStack
+
+Video: How To Build Notes App Using HTML CSS and JavaScript
